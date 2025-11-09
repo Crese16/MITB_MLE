@@ -1,0 +1,1 @@
+Customer_ID,Name,Age,SSN,Occupation,snapshot_date,normalized_snapshot_date,bronze_ingestion_timestamp,bronze_processing_date
